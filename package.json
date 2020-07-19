@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Naveen7892/comic-vine-api/issues"
   },
-  "homepage": "https://github.com/Naveen7892/comic-vine-api#readme"
+  "homepage": "https://github.com/Naveen7892/comic-vine-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
