@@ -1,0 +1,26 @@
+{
+  "name": "@naveen7892/comic-vine-api",
+  "version": "1.0.0",
+  "description": "An NPM package to communicate with ComicVine API with easy to use methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Naveen7892@github.com/Naveen7892/comic-vine-api.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "naveen7892",
+    "comic-vine-api",
+    "comicvine"
+  ],
+  "author": "Naveen Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naveen7892/comic-vine-api/issues"
+  },
+  "homepage": "https://github.com/Naveen7892/comic-vine-api#readme"
+}
