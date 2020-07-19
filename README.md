@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/badge/npm-v1.0.0-lightgrey)](https://github.com/Naveen7892/comic-vine-api.git) [![install size](https://packagephobia.com/badge?p=@naveen7892/comic-vine-api)](https://packagephobia.com/result?p=@naveen7892/tiny)
+[![GitHub issues](https://img.shields.io/badge/npm-v1.0.1-lightgrey)](https://github.com/Naveen7892/comic-vine-api.git)  [![install size](https://packagephobia.com/badge?p=@naveen7892/comic-vine-api)](https://packagephobia.com/result?p=@naveen7892/comic-vine-api)
 
 ## Communicates with ComicVine API
 
